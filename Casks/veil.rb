@@ -1,6 +1,6 @@
 cask "veil" do
-  version "0.4.2"
-  sha256 "e0595a17ede55db643891d5153199494b263d91f53a3816feeac013b2249ef3d"
+  version "0.5"
+  sha256 "9e2363de2f85f0e2ec8c7ade95214eec7134f471ccc5a79cbcfa4e2c7fdd5a3a"
 
   url "https://github.com/rainux/Veil/releases/download/v#{version}/Veil.zip"
   name "Veil"
