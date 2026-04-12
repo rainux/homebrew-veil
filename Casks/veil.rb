@@ -1,10 +1,10 @@
 cask "veil" do
-  version "0.6.2"
-  sha256 "1efece84915f7a4b564537d8ac76e5d4a3e0822134efa258a214853f2843bd22"
+  version "0.6.3"
+  sha256 "fb39219fa241fd92473625d04d531af4cabe20f1bf7cbf78b57f0e0fabd519ac"
 
   url "https://github.com/rainux/Veil/releases/download/v#{version}/Veil.zip"
   name "Veil"
-  desc "A quiet, vanilla Neovim GUI for macOS"
+  desc "A Neovim GUI built for efficiency, not for cool"
   homepage "https://github.com/rainux/Veil"
 
   depends_on macos: ">= :sonoma"
