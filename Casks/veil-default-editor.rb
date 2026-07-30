@@ -1,6 +1,6 @@
 cask "veil-default-editor" do
-  version "0.8"
-  sha256 "01088bd9c7a693c4c23660171f58902dda7190f8ab068d35ca912b11ff0de237"
+  version "0.8.1"
+  sha256 "f16b42c2942e362c6746056563d6542f3eb9b2961408033c7cdd77c76e074b7e"
 
   url "https://github.com/0x1b2c/Veil/releases/download/v#{version}/Veil-default-editor.zip"
   name "Veil"
